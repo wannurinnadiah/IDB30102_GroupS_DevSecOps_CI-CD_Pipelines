@@ -1,0 +1,19 @@
+name: Semgrep SAST Scanning
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  semgrep:
+    name: Scan Codebase
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Run Semgrep CI
+        run: semgrep ci
+        env:
+          # This simulates the scanning process for the proposed adaptive gate
+          SEMGREP_RULES: p/default
