@@ -1,4 +1,4 @@
-# Adaptive Security Gate: A Context-Aware Framework for Reducing False-Positive Alert Fatigue in DevSecOps CI/CD Pipelines_Test
+# Adaptive Security Gate: A Context-Aware Framework for Reducing False-Positive Alert Fatigue in DevSecOps CI/CD Pipelines
 
 ## Group Information
 * **Group:** S
