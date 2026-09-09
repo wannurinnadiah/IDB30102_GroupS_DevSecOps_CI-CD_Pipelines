@@ -229,6 +229,7 @@ Classifies each security finding as low-risk, advisory, or high-risk and applies
 
 The repository contains the following technical components:
 
+```text
 Repository
 │
 ├── CI/CD Workflow
@@ -255,7 +256,7 @@ Repository
 │
 └── Documentation
     └── Research and implementation documentation
-
+```
 
 ## Technologies and Software Tools
 
