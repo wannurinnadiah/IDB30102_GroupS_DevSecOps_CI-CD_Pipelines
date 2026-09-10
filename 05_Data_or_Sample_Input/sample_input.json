@@ -1,0 +1,14 @@
+{
+  "repository": "IDB30102_GroupS_DevSecOps_CI-CD_Pipelines",
+  "scan_target": "tests/mock_service.py",
+  "findings": [
+    {
+      "rule_id": "python.lang.security.audit.exec-detected",
+      "severity": "WARNING",
+      "path": "tests/mock_service.py",
+      "line": 42,
+      "context_tag": "test-directory",
+      "action": "suppress_low_risk"
+    }
+  ]
+}
