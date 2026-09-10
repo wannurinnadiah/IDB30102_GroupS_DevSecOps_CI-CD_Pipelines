@@ -12,7 +12,7 @@
 | 1 | Wan Nurin Nadiah Binti Wan Mohd Nasir | 52215225059 |
 | 2 | Nurul Atiqah Binti Ridzuan | 52215225211 |
 | 3 | Muhammad Azamuddin Bin Mohd Shahrid | 52215225175 |
-| 4 | Muhammad Qayyum Bin Mohd Syahril | 52215228074 |
+| 4 | Muhammad Qayyum Bin Mohd Syahril | 52215226074 |
 | 5 | Nor Arif Haqimi Bin Norazman Halim | 52215124087 |
 
 ---
