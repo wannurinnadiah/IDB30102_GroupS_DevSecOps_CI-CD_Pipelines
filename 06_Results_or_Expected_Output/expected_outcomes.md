@@ -8,7 +8,11 @@ Since this project is at the proposal stage, the following outlines the expected
 
 \## 1. Evaluation Metrics
 
+
+
 The proposed context-aware security gate will be evaluated against a traditional, non-adaptive SAST/SCA gate. The comparison will be measured using three primary metrics:
+
+
 
 \* \*\*False Positive Reduction:\*\* Measuring the decrease in non-exploitable or low-relevance alerts (e.g., vulnerabilities flagged in intentional benign test/mock directories).
 
@@ -20,7 +24,11 @@ The proposed context-aware security gate will be evaluated against a traditional
 
 \## 2. Expected Outcomes
 
+
+
 The expected outcomes are:
+
+
 
 \* \*\*Working Prototype:\*\* A fully functional prototype of a context-aware security gate integrated with an open-source SAST/SCA tool (e.g., Semgrep/SonarQube) in a GitHub Actions environment.
 
